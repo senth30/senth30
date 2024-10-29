@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @senth30
 - 👀 I’m interested in building things.
-- 🌱 I’m currently learning Git basics
-- 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me @senth30
 
 <!---
